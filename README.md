@@ -214,6 +214,9 @@
 - [ ] [AIIDE StarCraft AI Competition](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
 - [ ] [CIG StarCraft AI Competition](https://sites.google.com/site/starcraftaic/)
 - [ ] [CodinGame - AI Bot Games](https://www.codingame.com/training/machine-learning)
+- [ ] https://www.battlecode.org/
+- [ ] http://aichallenge.org/
+- [ ] http://fightcodegame.com/
 
 ## Conferences
 - [ ] Neural Information Processing Systems ([NIPS](https://nips.cc/))
