@@ -61,7 +61,7 @@
 - https://www.johndcook.com/blog/r_language_for_programmers/
 - http://www.dataschool.io/
 - http://www.datasciencecentral.com
-- Math
+### Math
 - http://www.sumsar.net/
 - http://allendowney.blogspot.ca/
 - https://healthyalgorithms.com/
