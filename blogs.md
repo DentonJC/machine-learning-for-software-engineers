@@ -43,3 +43,28 @@
 - http://www.overkillanalytics.net/
 
 - http://newton.cx/~peter/
+
+- https://sebastianraschka.com/
+- http://dogdogfish.com/
+- http://www.johnmyleswhite.com/
+- http://drewconway.com/zia/
+- http://bugra.github.io/
+- http://opendata.cern.ch/
+- https://alexanderetz.com/
+- http://www.sumsar.net/
+- https://www.countbayesie.com
+- http://karpathy.github.io/
+- http://blog.kaggle.com/
+- http://www.danvk.org/
+- http://hunch.net/
+- http://www.randalolson.com/blog/
+- https://www.johndcook.com/blog/r_language_for_programmers/
+- http://www.dataschool.io/
+- http://www.datasciencecentral.com
+- Math
+- http://www.sumsar.net/
+- http://allendowney.blogspot.ca/
+- https://healthyalgorithms.com/
+- https://petewarden.com/
+- http://mrtz.org/blog/
+- http://jordan-wright.com/blog/
