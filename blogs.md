@@ -1,0 +1,50 @@
+Blogs/Podcasts
+===============
+​
+[Hacker News for Data Science](http://www.datatau.com/news)
+​
+Podcasts
+--------
+​
+[The O'Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+​
+[Partially Derivative](http://partiallyderivative.com/)
+​
+[The Talking Machines](http://www.thetalkingmachines.com/)
+​
+[The Data Skeptic](https://dataskeptic.com/)
+​
+[Linear Digressions](http://benjaffe.github.io/linear-digressions-site/)
+​
+[Data Stories](http://datastori.es/)
+​
+[Learning Machines 101](http://www.learningmachines101.com/)
+​
+[Not So Standard Deviations](http://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
+​
+[TWIMLAI](https://twimlai.com/shows/)
+​
+Data Science / Statistics
+-------------------------
+​
+https://jeremykun.com/
+​
+http://iamtrask.github.io/
+​
+http://blog.explainmydata.com/
+​
+http://andrewgelman.com/
+​
+http://simplystatistics.org/
+​
+http://www.evanmiller.org/
+​
+http://jakevdp.github.io/
+​
+http://blog.yhat.com/
+​
+http://wesmckinney.com
+​
+http://www.overkillanalytics.net/
+​
+http://newton.cx/~peter/
