@@ -104,6 +104,16 @@
     - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [ ] [Machine Learning with TensorFlow(MEAP)](https://www.manning.com/books/machine-learning-with-tensorflow)
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
+    
+- [ ] [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
+- [ ]  Also consider browsing the [list of recommended reading](http://aima.cs.berkeley.edu/books.html), divided by each chapter in "Artificial Intelligence: A Modern Approach".
+- [ ] [Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/exec/obidos/ASIN/1558601910) - Paradigms of AI Programming is the first text to teach advanced Common Lisp techniques in the context of building major AI systems
+- [ ] [Reinforcement Learning: An Introduction](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
+- [ ] [The Cambridge Handbook Of Artificial Intelligence](http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915) - Written for non-specialists, it covers the discipline's foundations, major theories, and principal research areas, plus related topics such as artificial life
+- [ ] [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind ](http://www.amazon.com/gp/product/0743276647) - In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work
+- [ ] [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677) - Beginning with elementary reactive agents, Nilsson gradually increases their cognitive horsepower to illustrate the most important and lasting ideas in AI
+- [ ] [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927&sr=8-11) - Hawkins develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines. Also audio version available from audible.com
+- [ ] [How To Create A Mind](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7) - Kurzweil discusses how the brain works, how the mind emerges, brain-computer interfaces, and the implications of vastly increasing the powers of our intelligence to address the world’s problems
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -152,6 +162,10 @@
 - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
+- [ ] [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
+- [ ] [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) - Learn the Fundamentals of AI. Course run by Peter Norvig
+- [ ] [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
+- [ ] [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
 
 ## Resources
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
@@ -237,3 +251,36 @@
 - [ ] [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
 - [ ] [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
+
+
+## Journals
+​
+* [AI & Society](http://www.springer.com/journal/146)
+* [Annals of Mathematics and Artifical Intelligence](http://www.springer.com/journal/10472)
+* [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
+* [Applied Intelligence](http://www.springer.com/journal/10489)
+* [Artificial Intelligence Review](http://www.springer.com/journal/10462)
+* [Automated Software Engineering](http://www.springer.com/journal/10515)
+* [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
+* [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
+* [Evolutionary Intelligence](http://www.springer.com/journal/12065)
+* [Intelligent Industrial Systems](http://www.springer.com/engineering/robotics/journal/40903)
+* [Journal of Automated Reasoning](http://www.springer.com/journal/10817)
+* [Journal on Data Semantics ](http://www.springer.com/journal/13740)
+* [Journal of Intelligent Information Systems ](http://www.springer.com/journal/10844)
+* [Minds and Machines](http://www.springer.com/journal/11023)
+* [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
+* [Artificial Intelligence](http://www.elsevier.com/locate/artint)
+* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
+* [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
+* [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
+* [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
+* [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
+* [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
+* [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
+* [Journal of Experimental and Theoretical Artificial Intelligence ](http://www.tandf.co.uk/journals/tf/0952813X.html)
+* [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
+* [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
+* [International Journal on Artificial Intelligence Tools](http://www.worldscinet.com/journals/ijait/ijait.shtml)
+* [Electronic Transactions on Artificial Intelligence](http://www.etaij.org/)
+* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
